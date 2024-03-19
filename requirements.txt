@@ -15,6 +15,7 @@ from_root
 evidently==0.2.8
 dill
 PyYAML
+webbrowser
 neuro_mf
 boto3
 mypy-boto3-s3
